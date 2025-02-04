@@ -1,0 +1,19 @@
+.counterBox {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .counterBox button {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #0070f3;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .counterBox button:hover {
+    background-color: #005bb5;
+  }
+  
